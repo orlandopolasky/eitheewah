@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://pigiengie.auto-api.dev/sitemap.xml
